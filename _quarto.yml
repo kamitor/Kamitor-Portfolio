@@ -13,9 +13,9 @@ project:
     - "_redirects.txt"
 
 website:
-  title: "Meghan Hall"
+  title: "Christiaan Verhoef"
   navbar:
-    title: "meghan<br>hall"
+    title: "Christiaan <br> Verhoef"
     right:
       - href: blog/index.qmd
         text: BLOG
@@ -29,7 +29,7 @@ format:
     toc: true
     link-external-newwindow: true
     metadata:
-      pagetitle: "Meghan Hall"
+      pagetitle: "Technical Product manager"
 
 editor: source
 

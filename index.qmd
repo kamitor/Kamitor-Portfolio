@@ -1,5 +1,5 @@
 ---
-title: "Meghan Hall"
+title: "Christiaan Verhoef"
 subtitle: "Technical Product Manager"
 image: headshot.jpeg 
 toc: false 
@@ -8,20 +8,37 @@ about:
   image-shape: round
   image-width: 20em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MeghanMHall
     - icon: github
       text: GitHub
-      href: https://github.com/meghall06
+      href: https://github.com/kamitor
     - icon: envelope
       text: Email
-      href: mailto:meghanhall6@gmail.com
+      href: mailto:christiaan.gerardo@gmail.com
 format:
   html:
     link-external-newwindow: true
 ---
 
-Hi! I am currently the technical product manager of the hockey group at [Zelus Analytics](https://zelusanalytics.com/){target="_blank"}. Prior to moving into sports analytics, I spent nearly a decade working in data management in higher education. I use & love R, with a particular fondness for `ggplot2` and `quarto`.
+Hi! I’m **Christiaan Verhoef**, a technical strategist, researcher, and open-source systems designer focused on AI, sustainability, and supply chain innovation. I currently lead **[Value Chain Hackers](https://github.com/Value-Chain-Hackers)**, an open lab hosted at Windesheim University of Applied Sciences, where we build research infrastructure that helps organizations turn sustainable practices into competitive advantages.
 
-I've given several talks and workshops, many focused on sports analytics and all available [here](talks/index.qmd), and in summer 2021, I taught the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. The course focused on data visualization using R and ggplot2, and the public-facing course website (built with `distill`) is [here](https://cmu-36315.netlify.app/){target="_blank"}.
+My work spans over 20 roles since 2009 across Europe and the Caribbean, with a focus on:
+
+- Coordinating the **Spark! Living Lab** at Windesheim since 2020, where I’ve led projects in blockchain simulation, agile educational transformation, supply chain digitization, and forensic COVID-19 research.
+
+- Co-founding the **Tonomy Foundation**, where I co-lead the development of decentralized governance and identity tooling.
+
+- Driving curriculum innovation at **Aeres Hogeschool Dronten**, where I introduced Scrum and helped merge eight courses into a single integrated innovation program that led to successful startup incubation.
+
+- Supporting privacy-first AI infrastructure and data tooling in research settings using technologies like **Supabase**, **Docker**, **Open WebUI**, and **graph databases**.
+
+I specialize in building systems that are both technically robust and easy to adopt — particularly in settings where researchers, educators, and SMEs need tools that work out of the box and respect user autonomy.
+
+I work daily with **R**, `ggplot2`, `quarto`, **n8n**, and open science stacks to automate reporting, map complex value chains, and experiment with decentralized knowledge flows.
+
+You can explore more of my work here:
+- 🌍 Lab portal: [valuechainhackers.xyz](https://valuechainhackers.xyz)
+- 🧪 Research platform: [eco.viridis.info](https://eco.viridis.info/)
+- 💻 Code & infrastructure: [github.com/Value-Chain-Hackers](https://github.com/Value-Chain-Hackers)
+
+If you're building systems to make research, sustainability, or governance more accessible — let’s talk.
+
